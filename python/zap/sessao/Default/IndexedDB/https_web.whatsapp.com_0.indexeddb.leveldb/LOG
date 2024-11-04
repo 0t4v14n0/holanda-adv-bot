@@ -1,0 +1,17 @@
+2024/11/04-00:36:43.334 5d70 Reusing MANIFEST C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/04-00:36:43.334 5d70 Recovering log #343
+2024/11/04-00:36:43.340 5d70 Reusing old log C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000343.log 
+2024/11/04-00:36:44.474 32b4 Manual compaction at level-0 from '\x00T\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00U\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/04-00:41:24.740 5fb8 Level-0 table #350: started
+2024/11/04-00:41:24.754 5fb8 Level-0 table #350: 1220382 bytes OK
+2024/11/04-00:41:24.756 5fb8 Delete type=0 #343
+2024/11/04-00:41:30.628 5fb8 Compacting 1@1 + 3@2 files
+2024/11/04-00:41:30.687 5fb8 Generated table #351@1: 64043 keys, 2667434 bytes
+2024/11/04-00:41:30.737 5fb8 Generated table #352@1: 23790 keys, 2627623 bytes
+2024/11/04-00:41:30.763 5fb8 Generated table #353@1: 43444 keys, 1570173 bytes
+2024/11/04-00:41:30.763 5fb8 Compacted 1@1 + 3@2 files => 6865230 bytes
+2024/11/04-00:41:30.765 5fb8 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/11/04-00:41:30.765 5fb8 Delete type=2 #345
+2024/11/04-00:41:30.766 5fb8 Delete type=2 #346
+2024/11/04-00:41:30.766 5fb8 Delete type=2 #347
+2024/11/04-00:41:30.766 5fb8 Delete type=2 #350
