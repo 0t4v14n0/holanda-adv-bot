@@ -1,18 +1,5 @@
-[8876:7684:1107/031352.184:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 130.0.6723.92 (not a warning)
-[8876:7684:1107/031352.240:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[1956:6060:1107/031352.424:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[1956:24108:1107/031353.340:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(130,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
-
-[8876:7684:1107/031355.096:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yh/r/JGyG9L9pUIY.js (153)
-[8876:7684:1107/031403.391:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5157
-[8876:7684:1107/031403.758:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
-[8876:7684:1107/031404.031:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
-[8876:7684:1107/031404.471:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45171
-[8876:7684:1107/031405.043:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
-[8876:7684:1107/031405.576:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
-[8876:7684:1107/031405.660:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747168
-[8876:7684:1107/031408.590:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:118577
-[8876:7684:1107/031412.635:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68666027
-[18188:15552:1107/031430.771:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
-[18188:15552:1107/031430.771:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[22956:18524:1107/032853.050:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 130.0.6723.92 (not a warning)
+[22956:18524:1107/032853.089:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[8308:18564:1107/032853.188:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[22956:18524:1107/032853.840:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yh/r/JGyG9L9pUIY.js (153)
+[22956:18524:1107/032859.396:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yh/r/JGyG9L9pUIY.js (153)
