@@ -1,1 +1,2 @@
 pythonzap filter=lfs diff=lfs merge=lfs -text
+python/zap/* filter=lfs diff=lfs merge=lfs -text
