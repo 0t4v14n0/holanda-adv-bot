@@ -1,4 +1,0 @@
-[4408:12908:1107/013614.570:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 130.0.6723.92 (not a warning)
-[4408:12908:1107/013614.609:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[14348:4904:1107/013614.714:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[4408:12908:1107/013615.301:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yh/r/JGyG9L9pUIY.js (153)
