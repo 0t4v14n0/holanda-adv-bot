@@ -1,6 +1,0 @@
-[23980:19980:1104/003642.548:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 130.0.6723.92 (not a warning)
-[23980:19980:1104/003642.592:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[17504:24256:1104/003642.684:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[23980:19980:1104/003643.322:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yf/r/MLxn8sHzKTb.js (153)
-[23980:19980:1104/003645.802:INFO:CONSOLE(153)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yf/r/MLxn8sHzKTb.js (153)
-[17504:21324:1104/004122.160:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 417 is too big.
