@@ -1,24 +1,25 @@
-2024/11/07-03:28:53.856 5e10 Reusing MANIFEST C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/07-03:28:53.856 5e10 Recovering log #28
-2024/11/07-03:28:53.864 5e10 Reusing old log C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
-2024/11/07-03:28:54.270 1c0c Level-0 table #33: started
-2024/11/07-03:28:54.275 4684 Current memtable full; waiting...
-2024/11/07-03:28:54.277 1c0c Level-0 table #33: 148680 bytes OK
-2024/11/07-03:28:54.278 1c0c Delete type=0 #28
-2024/11/07-03:28:54.279 5e10 Level-0 table #35: started
-2024/11/07-03:28:54.281 5e10 Level-0 table #35: 713 bytes OK
-2024/11/07-03:28:54.282 5e10 Delete type=0 #32
-2024/11/07-03:28:54.282 5e10 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 65221 : 0
-2024/11/07-03:28:54.283 5e10 Compacting 1@0 + 1@1 files
-2024/11/07-03:28:54.286 5e10 Generated table #36@0: 3691 keys, 100797 bytes
-2024/11/07-03:28:54.286 5e10 Compacted 1@0 + 1@1 files => 100797 bytes
-2024/11/07-03:28:54.287 5e10 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/07-03:28:54.287 5e10 Delete type=2 #33
-2024/11/07-03:28:54.287 5e10 Delete type=2 #35
-2024/11/07-03:28:54.288 5e10 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/11/07-03:28:54.288 5e10 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 65221 : 0 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/11/07-03:28:54.288 5e10 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/11/07-03:28:55.211 38ac Compacting 1@1 + 1@2 files
-2024/11/07-03:28:55.224 38ac Generated table #37@1: 13812 keys, 519539 bytes
-2024/11/07-03:28:55.224 38ac Compacted 1@1 + 1@2 files => 519539 bytes
-2024/11/07-03:28:55.225 38ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/07-04:22:14.059 2588 Reusing MANIFEST C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-04:22:14.060 2588 Recovering log #39
+2024/11/07-04:22:14.065 2588 Reusing old log C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2024/11/07-04:22:14.333 db4 Level-0 table #44: started
+2024/11/07-04:22:14.338 4dd8 Current memtable full; waiting...
+2024/11/07-04:22:14.339 db4 Level-0 table #44: 125341 bytes OK
+2024/11/07-04:22:14.340 db4 Delete type=0 #39
+2024/11/07-04:22:14.340 3190 Level-0 table #46: started
+2024/11/07-04:22:14.342 3190 Level-0 table #46: 422 bytes OK
+2024/11/07-04:22:14.344 3190 Delete type=0 #43
+2024/11/07-04:22:14.344 3190 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 80292 : 0
+2024/11/07-04:22:14.344 3190 Compacting 1@0 + 1@1 files
+2024/11/07-04:22:14.347 3190 Generated table #47@0: 3219 keys, 70205 bytes
+2024/11/07-04:22:14.347 3190 Compacted 1@0 + 1@1 files => 70205 bytes
+2024/11/07-04:22:14.348 3190 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-04:22:14.348 3190 Delete type=2 #44
+2024/11/07-04:22:14.348 3190 Delete type=2 #46
+2024/11/07-04:22:14.349 3190 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/07-04:22:14.349 3190 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 80292 : 0 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/07-04:22:14.399 2588 Compacting 1@1 + 1@2 files
+2024/11/07-04:22:14.410 2588 Generated table #48@1: 16843 keys, 626360 bytes
+2024/11/07-04:22:14.410 2588 Compacted 1@1 + 1@2 files => 626360 bytes
+2024/11/07-04:22:14.411 2588 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/07-04:22:14.412 2588 Delete type=2 #41
+2024/11/07-04:22:14.412 2588 Delete type=2 #47
