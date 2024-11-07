@@ -21,6 +21,7 @@ def iniciar_driver():
 
     chrome_options = Options()
     chrome_options.add_argument(r"user-data-dir=" + dir_path + "/zap/sessao")
+
     chrome_options.add_argument("--headless")  # Executa o Chrome em modo headless
     chrome_options.add_argument("--no-sandbox")  # Necessário para ambientes sem sandbox
     chrome_options.add_argument("--disable-dev-shm-usage")  # Necessário em ambientes com pouco espaço de memória compartilhada
