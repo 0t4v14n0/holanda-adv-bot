@@ -1,5 +1,2 @@
-*.txt text eol=lf
-*.py text eol=lf
-
-pythonzap filter=lfs diff=lfs merge=lfs -text
 python/zap/* filter=lfs diff=lfs merge=lfs -text
+zap/sessao/* filter=lfs diff=lfs merge=lfs -text

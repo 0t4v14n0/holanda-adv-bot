@@ -20,7 +20,9 @@ def iniciar_driver():
     dir_path = os.getcwd()
 
     chrome_options = Options()
-    chrome_options.add_argument(r"user-data-dir=" + dir_path + "/zap/sessao")
+
+    dir_path = "/zap"  # Diretório copiado no Dockerfile
+    chrome_options.add_argument(r"user-data-dir=" + os.path.join(dir_path, "sessao"))
 
     chrome_options.add_argument("--headless")  # Executa o Chrome em modo headless
     chrome_options.add_argument("--no-sandbox")  # Necessário para ambientes sem sandbox

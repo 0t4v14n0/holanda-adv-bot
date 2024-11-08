@@ -1,30 +1,36 @@
 version: '3.8'
 
 services:
-
   python:
     build:
-      context: ./python
+      context: ./  # Certifique-se de que o Docker está considerando o diretório chatbot-main/
+      dockerfile: python/Dockerfile  # O Dockerfile está dentro da pasta python/
+    volumes:
+      - ./zap:/zap    # Volumes para compartilhar a pasta zap
+      - ./python:/bot  # Volumes para compartilhar a pasta python
+    environment:
+      - DISPLAY=:99.0
     depends_on:
       - php
+    command: python /bot/bot.py
 
   mysqldb:
     container_name: mysqlASW
     image: mysql:5.7
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: root 
+      MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: bot
     ports:
-      - "3309:3306"  # Acesso ao MySQL
+      - "3309:3306"
     volumes:
-      - ./php/init.sql:/docker-entrypoint-initdb.d/init.sql  # Montar o script SQL
+      - ./php/init.sql:/docker-entrypoint-initdb.d/init.sql
 
   php:
     build:
       context: ./php
     ports:
-      - "8080:80"  # Acessar no navegador em http://localhost:8080
+      - "8080:80"
     volumes:
       - ./php:/var/www/html
     depends_on:

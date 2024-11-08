@@ -1,3 +1,2 @@
-2024/11/07-04:20:25.351 4f34 Reusing MANIFEST C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\Local Storage\leveldb/MANIFEST-000001
-2024/11/07-04:20:25.354 4f34 Recovering log #3
-2024/11/07-04:20:25.356 4f34 Reusing old log C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\Local Storage\leveldb/000003.log 
+2024/11/08-16:13:08.696 4fcc Creating DB C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\Local Storage\leveldb since it was missing.
+2024/11/08-16:13:08.723 4fcc Reusing MANIFEST C:\Users\0t4v14n0\Desktop\chatbot-main\zap\sessao\Default\Local Storage\leveldb/MANIFEST-000001
